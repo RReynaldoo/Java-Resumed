@@ -5,6 +5,8 @@ import java.util.Random;	//To import the random class
 public class Part1 {
 	public static void main(String[] args) {
 		
+
+		
 		{
 		//**********************************PRINT STATEMENTS***********************************//
 		/*
@@ -22,6 +24,12 @@ public class Part1 {
 		//-------------------------------------------------------------------------------------//
 		}
 	
+
+
+
+
+
+
 		{//************************************VARIABLES***************************************//
 		//boolean		true or false			boolean c = true;
 		//byte			1 byte					
@@ -45,6 +53,11 @@ public class Part1 {
 		String name = " Holaaaa ";
 		}
 		
+
+
+
+
+
 		{//************************************VARIABLE SWAP***************************************//
 		String name1 = "Matias";
 		String name2= "Tom";
@@ -56,6 +69,12 @@ public class Part1 {
 		
 		//Same applies to any data type
 		}
+
+
+
+
+
+
 		
 		{//************************************SCANNER**********************************************//
 		Scanner input = new Scanner(System.in);	//Declaration of scanner object
@@ -72,12 +91,21 @@ public class Part1 {
 		number1 = input.nextDouble();			//receives the next double
 		}
 		
+
+
+
+
 		{/************************************OPERATORS***************************************/ int x =0;
 		//Operators + - * / %
 		
 		x++; x--;		//Shortcut to add or subtract one 
 		x +=1; x*=2;	//Shortcut to operate
 		}
+
+
+
+
+
 		
 		{/************************************JOptionPane**********************************************/
 			
@@ -94,6 +122,9 @@ public class Part1 {
 		}
 		
 		
+
+
+
 		{/************************************MATH METHODS**********************************************/
 		double x = 12;
 		double c= 11;
@@ -108,6 +139,9 @@ public class Part1 {
 		}
 		
 		
+
+
+
 		{/************************************RANDOM VALUES**********************************************/
 		Random random = new Random();			//To create a random object
 		
