@@ -168,7 +168,7 @@ public class Part1 {
 				System.out.println("You are not an adult!");
 			}
 			
-			// (==, <, >, <=, >=, or !=)	  Operators to compare values in if else statements  ( && and || ) can be used between comparisons to use as AND and OR
+			// (==, <, >, <=, >=, or !=)	  Operators to compare values in if else statements  ( && , || , !) can be used between comparisons to use as AND , OR , NOT
 			boolean x = (5 > 2);			//You van use thin in comparisons
 		}
 		
